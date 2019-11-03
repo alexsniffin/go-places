@@ -1,0 +1,2 @@
+MapsAPI:
+  APIKey: placeholder, use env GO_PLACES_MAPSAPI_APIKEY

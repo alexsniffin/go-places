@@ -1,0 +1,5 @@
+.vscode
+go-places.code-workspace
+.DS_Store
+go-places
+__debug_bin
